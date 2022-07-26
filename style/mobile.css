@@ -1,0 +1,9 @@
+header{
+    margin:0 0 0 0.5rem !important;
+ }
+
+ .principalContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
